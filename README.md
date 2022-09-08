@@ -1,0 +1,1 @@
+# Conversor_de_Fahrenheit_para_Celsius
